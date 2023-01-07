@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning the T3 Stack, Machine Learning and Rust  
   
 
-- ❓ Currently interested in learning Docker and Kubernetes  
+- ❓  Currently interested in learning Docker and Kubernetes  
 
 - 🚀 I aspire to be full-time full-stack developer! 
   
