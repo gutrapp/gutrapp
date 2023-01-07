@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Gustavo, I aspire to be full-time full-stack developer 👨‍💻 </div>  
+### <div align="center">I'm Gustavo, full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [IMDB Clone](https://github.com/gutrapp/imdb-clone)  
@@ -13,6 +13,8 @@
   
 
 - ❓ Currently interested in learning Docker and Kubernetes  
+
+- 🚀 I aspire to be full-time full-stack developer! 
   
 
 <br/>  
