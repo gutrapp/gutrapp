@@ -43,9 +43,10 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>    
 <a href="https://trpc.io/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/101607291/211162130-ee6f238c-48ae-4649-8eda-a045ce091d15.png" alt="tRPC" height="50" /></a>  
-</div>
   
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+  
+</div>
 
 </td><td valign="top" width="33%">
 
@@ -53,13 +54,14 @@
 
 <br/>
 
+### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
 </td></tr></table>  
 
-<br/>
+<br/>  
 
 
 ## Connect with me  
