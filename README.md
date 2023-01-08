@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [IMDB Clone](https://github.com/gutrapp/imdb-clone)  
   
 
-- 🌱 I’m currently learning the T3 Stack, Machine Learning and Rust  
+- 🌱 I’m currently learning the T3 Stack, MERN Stack, Rust and Go  
   
 
 - ❓  Currently interested in learning Docker and Kubernetes  
