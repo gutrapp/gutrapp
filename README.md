@@ -6,7 +6,7 @@
 ### <div align="center">I'm Gustavo, a full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [IMDB Clone](https://github.com/gutrapp/imdb-clone)  
+- 🔭 I’m currently working on [Own Boss](https://github.com/gutrapp/ownboss)  
   
 
 - 🌱 I’m currently learning the T3 Stack, MERN Stack, Rust and Go  
