@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Own Boss](https://github.com/gutrapp/ownboss)  
   
 
-- 🌱 I’m currently learning the T3 Stack, MERN Stack, Rust and Go  
+- 🌱 I’m currently learning the T3 Stack, MERN Stack and Go  
   
 
 - ❓  Currently interested in learning Docker and Kubernetes  
